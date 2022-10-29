@@ -1,16 +1,16 @@
 {
-"name": "appkanom456",
-"theme": "app kanom456",
-"version": "5.5.8",
-"description": "app kanom456 ทางเข้าหลักเว็บไซต์พนันเว็บตรง อันดับ 1 ให้โบนัสเครดิตฟรี",
-"keywords": [
-"app kanom456",
-"app kanom456 เครดิตฟรี",
-"app kanom456 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/appkanom456",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "appkanom456",
+  "theme": "app kanom456",
+  "version": "5.6.0",
+  "description": "app kanom456 ทางเข้าหลักเว็บไซต์พนันเว็บตรง อันดับ 1 ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "app kanom456",
+    "app kanom456 เครดิตฟรี",
+    "app kanom456 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/appkanom456",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
